@@ -16,7 +16,7 @@ export const AboutSection = () => {
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">Get In Touch</a>
               <a  href="./Resume/Siddharth_U_Rao_K's Resume.pdf"
-  download target="_blank" rel="noopener noreferrer"className="px-6 py-2 rounded-full border-primary text-primary hover:bg-primary/10 transition-colors duration-300">Download CV</a>
+  download target="_blank" rel="noopener noreferrer"className="px-6 py-2 rounded-full border-primary text-primary hover:bg-primary/10 transition-colors duration-300">Download Resume</a>
             </div>
           </div>
 
